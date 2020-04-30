@@ -1,2 +1,0 @@
-# MAHAK
-graphics
